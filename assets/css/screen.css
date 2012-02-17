@@ -71,3 +71,8 @@ div.incoming span.date {
 div.incoming ul p {
   color : grey;
 }
+
+::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+}
